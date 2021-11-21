@@ -1,0 +1,77 @@
+<article class="post-82389 post type-post status-publish format-standard hentry category-uncategorized" id="post-82389">
+  <header class="entry-header">
+
+          <h2 class="entry-title"><a href="https://marginalrevolution.com/marginalrevolution/2021/11/friday-assorted-links-337.html">Friday assorted links</a></h2>
+    
+      <div class="byline">
+        by  <span class="author"><a href="/about">Tyler Cowen</a></span>
+        <time class="entry-date published" datetime="2021-11-19 12:02:04">November 19, 2021 at 12:02 pm </time>
+                                          </div><!-- /.byline -->
+  </header><!-- /.entry-header -->
+  <div class="entry-content">
+    <p>1. <a href="https://kottke.org/21/11/how-bowling-balls-are-made" target="_blank" rel="noopener">How bowling balls are made</a>.</p>
+<p>2. <a href="https://www.theguardian.com/global-development/2021/nov/17/dirty-dollars-how-tattered-us-notes-became-the-latest-street-hustle-in-zimbabwe?CMP=Share_iOSApp_Other" target="_blank" rel="noopener">The demand for torn U.S. notes in Zimbabwe</a>.</p>
+<p>3. <a href="https://www.washingtonpost.com/technology/2021/11/18/crypto-dao-constitution-auction/" target="_blank" rel="noopener">DAO bid for the Constitution falls short</a>.</p>
+<p>4. <a href="https://www.theamericanconservative.com/dreher/caesarism-from-post-liberal-right/" target="_blank" rel="noopener">For liberalism and against Caesarism on the Right</a>.  And <a href="https://www.niskanencenter.org/state-capacity-what-is-it-how-we-lost-it-and-how-to-get-it-back/" target="_blank" rel="noopener">new Niskanen Center project on state capacity</a>.</p>
+<p>5. <a href="http://1.%20A%20new%20Namewee%20video.%C2%A0%20And%20some%20interpretation.%202.%20If%20Paul%20Krugman%20wrote%20%22The%20Myth%20of%20the%20Rational%20Voter.%22%20(NYT)%203.%20Craig%20Palsson%20on%20me%20and%20branding.%204.%20E.%20coli%20biocomputer.%205.%20Scott%20Alexander%20on%20ivermectin,%20recommended.%206.%20How%20modern%20universities%20%22deconstruct%22%20their%20students.%C2%A0%20Mostly%20I%20disagree%20(are%20we%20really%20that%20effective?),%20but%20interesting.%207.%20Staples%20Center%20now%20to%20be%20Crypto.com%20arena." target="_blank" rel="noopener">Orangutan drawings change with season and mood</a>.  Or try <a href="https://www.science.org/content/article/orangutan-drawings-change-season-and-mood" target="_blank" rel="noopener">this link</a>.</p>
+<p>6. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3795685" target="_blank" rel="noopener">Helps justify tuition</a>.</p>
+<p>7. <a href="https://www.washingtonpost.com/health/2021/11/18/coronavirus-origins-wuhan-market-animals-science-journal/" target="_blank" rel="noopener">New evidence against lab leak hypothesis</a>.  Paper <a href="https://www.science.org/doi/10.1126/science.abm4454" target="_blank" rel="noopener">here</a>.</p>
+
+  </div><!-- /.entry-content -->
+  <footer class="entry-footer">
+
+    <section class="post-actions">
+      <ul class="entry-meta">
+        <li class="meta-item">
+          <a href="https://marginalrevolution.com/marginalrevolution/2021/11/friday-assorted-links-337.html#comments">
+            <i class="fa fa-comment-o" aria-hidden="true"></i>
+            <span class="meta-text">100 Comments</span>
+          </a>
+        </li>
+      </ul>
+
+      <ul class="post-social" style="margin-top: -5px;">
+        <li class="social-item facebook">
+          <a href="//www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmarginalrevolution.com%2Fmarginalrevolution%2F2021%2F11%2Ffriday-assorted-links-337.html">
+            <span class="sr-only">Facebook</span>
+            <i class="fa fa-facebook-square" aria-hidden="true"></i>
+          </a>
+        </li>
+        <li class="social-item twitter">
+          <a href="//twitter.com/intent/tweet?text=Friday%20assorted%20links%20-%20https%3A%2F%2Fmarginalrevolution.com%2Fmarginalrevolution%2F2021%2F11%2Ffriday-assorted-links-337.html">
+            <span class="sr-only">Twitter</span>
+            <i class="fa fa-twitter-square" aria-hidden="true"></i>
+          </a>
+        </li>
+      <li class="social-item rss">
+          <a href="https://feeds.feedblitz.com/marginalrevolution">
+            <span class="sr-only">RSS Feed</span>
+            <i class="fa fa-rss-square" aria-hidden="true"></i>
+          </a>
+        </li>
+      </ul><!-- /.post-social -->
+
+      <ul class="entry-meta" style="margin-left: 25px;">
+        <li class="meta-item desktop-only">
+          <a href="https://marginalrevolution.com/marginalrevolution/2021/11/friday-assorted-links-337.html#print">
+            <i class="fa fa-print" aria-hidden="true"></i>
+            <span class="meta-text">print</span>
+          </a>
+        </li>
+      </ul><!-- /.entry-meta -->
+
+
+    </section><!-- /.post-actions -->
+
+      </footer><!-- /.entry-footer -->
+</article>
+<article class="sidebar-featured-link">
+    <a href="https://mru.org/"><img class="featured-link-thumbnail" src="https://marginalrevolution.com/wp-content/uploads/2019/07/mru-logo-450.png" alt=""></a>
+    <h3 class="link-title"><a href="https://mru.org/">Marginal Revolution University</a></h3>
+    <div class="btn-wrapper"><a href="https://mru.org/" class="btn btn-primary-outline">See Courses</a></div>
+  </article>
+<article class="book-post">
+  <a href="https://www.macmillanlearning.com/college/us/product/Modern-Principles-of-Economics/p/1319245390"><img class="book-cover" src="https://marginalrevolution.com/wp-content/uploads/2020/10/ModernPrinciples5thedCover-340x520.jpg" alt=""></a>
+  <h3 class="book-title"><a href="https://www.macmillanlearning.com/college/us/product/Modern-Principles-of-Economics/p/1319245390">Modern Principles of Economics</a></h3>
+    <address class="book-author">Tyler Cowen &amp; Alexander Tabarrok</address>
+  </article>

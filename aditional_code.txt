@@ -1,0 +1,15 @@
+
+"""
+
+xpath_content = '//div[@class="entry-content"]/text()'
+
+r = requests.get(url, headers=headers)
+print(r.status_code)
+sel = Selector(text=r.content)
+# Se você achou que nunca ia precisar de um ordered-set... (é um dicionário sem chaves, mas potato potato)
+# Wait, eu n vou realmente precisar do ordered-set, agora que parou de repetir... oh, well
+# Seria d = dict.from_keys(g)
+g = sel.xpath(xpath_post).xpath(xpath_title).extract()
+k = sel.xpath(xpath_post).extract()
+print(g)
+"""
